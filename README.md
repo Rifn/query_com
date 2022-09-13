@@ -1,7 +1,7 @@
 # 通过爬取企查查网站批量获取企业基本信息的桌面小工具
 
 #使用说明
-[源代码下载地址](https://github.com/Rifn/query_com)
+[GitHub源代码地址](https://github.com/Rifn/query_com)
 
 ## 1、文件介绍
 - **qcc**.py:  用 python 代码写的主程序，将使用代码的爬虫程序转化为可以用鼠标键盘操作的可视化界面，使用 *PyQt* 的窗体、标签、文本框、按钮、资源访问等控件构成；
